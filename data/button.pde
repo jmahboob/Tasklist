@@ -73,7 +73,7 @@ class Button {
     void processClicked() {
         if(processHover()) {
             if(Common.DEBUG) println("Clicked: " + value);
-            println("The Button " + value + " thinks George is super gay.");
+            println("The Button " + value + " thinks George is super awesome.");
         }
     }
     

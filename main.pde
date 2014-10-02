@@ -70,7 +70,6 @@ void setup() {
         "to add a gently fade to white, radially, on all of the images so they blend into the page well"
     );
     
-    //topMenu.theMotherFuckingFlash();
 }
 
 void draw() {
